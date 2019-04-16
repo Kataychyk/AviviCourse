@@ -4,6 +4,7 @@ public class FirstLessonHomeWork {
     public static void main (String[] args) {
         int a = 5;
         short b =23;
+        char gg = 'd';
         boolean c = true;
         String d = "е";
         double e =2.423235535545;
@@ -14,7 +15,7 @@ public class FirstLessonHomeWork {
         System.out.println(d);
         System.out.println(e);
         System.out.println(f);
-
+        System.out.println(gg);
 
         System.out.println(Integer.MAX_VALUE);
         System.out.println(Long.MAX_VALUE);

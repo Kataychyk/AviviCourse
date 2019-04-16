@@ -7,7 +7,7 @@ public class HomeWork_3 {
         Scanner in = new Scanner(System.in);
         System.out.print("Input a number: ");
         int day = in.nextInt();
-        
+
         // Вираховуємо відповідний день тижня введеному номеру
 
         switch (day) {
