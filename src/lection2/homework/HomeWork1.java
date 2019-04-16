@@ -1,6 +1,6 @@
-package Lection_2.HomeWork;
+package lection2.homework;
 
-public class HomeWork_1 {
+public class HomeWork1 {
     public static void main(String[] args) {
 
         // Вираховуємо розмір масиву в який будемо записувати непарні числа

@@ -1,6 +1,6 @@
-package Lection_2.HomeWork;
+package lection2.homework;
 
-public class HomeWork_2 {
+public class HomeWork2 {
     public static void main(String[] args) {
 
         // Вираховуємо розмір масиву

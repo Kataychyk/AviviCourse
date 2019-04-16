@@ -1,6 +1,6 @@
-package Lection_2;
+package lection2;
 
-public class Lesson_2 {
+public class Lesson2 {
     public static void main(String[] args){
        // String[] cars;
         String[] cars = {"Volvo", "BMV", "Ford", "Mazda"};
