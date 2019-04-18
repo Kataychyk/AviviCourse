@@ -9,7 +9,6 @@ public class Triangle {
     Triangle(int length, int width) {
         this.length = length;
         this.width = width;
-
     }
 
     Triangle() {
