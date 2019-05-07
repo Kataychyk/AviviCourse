@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9c7cac8b-ce57-40f0-a647-4e16b1639da2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lection2/homework/HomeWork1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lection2/homework/HomeWork1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lection2/homework/HomeWork2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lection2/homework/HomeWork2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,11 +35,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lection2/homework/HomeWork1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+            <state relative-caret-position="272">
+              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lection2/homework/HomeWork2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lection3/HomeWork.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lection2/homework/HomeWork3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -128,7 +155,9 @@
         <option value="$PROJECT_DIR$/src/lection5/RobotDancer.java" />
         <option value="$PROJECT_DIR$/src/lection5/RobotCoocker.java" />
         <option value="$PROJECT_DIR$/src/lection5/CofeeRobot.java" />
+        <option value="$PROJECT_DIR$/src/lection2/homework/HomeWork3.java" />
         <option value="$PROJECT_DIR$/src/lection2/homework/HomeWork1.java" />
+        <option value="$PROJECT_DIR$/src/lection2/homework/HomeWork2.java" />
       </list>
     </option>
   </component>
@@ -186,6 +215,12 @@
               <item name="AviviCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="AviviCourse" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lection3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AviviCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AviviCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lection4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -229,13 +264,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HomeWork1">
-    <configuration name="CofeeRobot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lection5.CofeeRobot" />
+  <component name="RunManager" selected="Application.HomeWork2">
+    <configuration name="HomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lection3.HomeWork" />
       <module name="AviviCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lection5.*" />
+          <option name="PATTERN" value="lection3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,12 +291,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RobotCoocker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lection5.RobotCoocker" />
+    <configuration name="HomeWork2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lection2.homework.HomeWork2" />
       <module name="AviviCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lection5.*" />
+          <option name="PATTERN" value="lection2.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,12 +304,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RobotDancer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lection5.RobotDancer" />
+    <configuration name="HomeWork3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lection2.homework.HomeWork3" />
       <module name="AviviCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lection5.*" />
+          <option name="PATTERN" value="lection2.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,11 +332,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeWork2" />
+        <item itemvalue="Application.HomeWork" />
         <item itemvalue="Application.HomeWork1" />
+        <item itemvalue="Application.HomeWork3" />
         <item itemvalue="Application.SecondQuestion" />
-        <item itemvalue="Application.RobotCoocker" />
-        <item itemvalue="Application.CofeeRobot" />
-        <item itemvalue="Application.RobotDancer" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +362,7 @@
       <workItem from="1555617528782" duration="8463000" />
       <workItem from="1556033945143" duration="2148000" />
       <workItem from="1556168144600" duration="2002000" />
-      <workItem from="1557243657556" duration="2654000" />
+      <workItem from="1557243657556" duration="5180000" />
     </task>
     <task id="LOCAL-00001" summary="simple app start">
       <created>1554829349796</created>
@@ -434,11 +469,25 @@
       <option name="project" value="LOCAL" />
       <updated>1557247356614</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="minor fix">
+      <created>1557247423936</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1557247423936</updated>
+    </task>
+    <task id="LOCAL-00017" summary="minor fix">
+      <created>1557248518918</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1557248518918</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47848000" />
+    <option name="totallyTimeSpent" value="50374000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -590,29 +639,8 @@
     <entry file="file://$PROJECT_DIR$/.idea/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lection2/homework/HomeWork3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lection2/homework/HomeWork2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="49" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lection3/HomeWork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="44" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lection4/homework/triangle/TriangleGetSet.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -697,8 +725,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lection2/homework/HomeWork1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        <state relative-caret-position="272">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lection3/HomeWork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lection2/homework/HomeWork3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lection2/homework/HomeWork2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
         </state>
       </provider>
     </entry>
