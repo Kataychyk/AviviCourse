@@ -14,6 +14,7 @@ public class HomeWork1 {
         for (int i = 1, z = 0; i <= 99; i++) {
             if (i % 2 != 0) {  // якщо число не парне воно записується в масив
                 array[z] = i;
+                System.out.print(array[z] + " ");
                 z++;
             }
         }
