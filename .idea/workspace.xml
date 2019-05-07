@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c7cac8b-ce57-40f0-a647-4e16b1639da2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lection4/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lection4/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lection4/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lection4/homework/UseGetSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lection4/homework/triangle/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lection4/homework/triangle/TriangleGetSet.java" afterDir="false" />
+    <list default="true" id="9c7cac8b-ce57-40f0-a647-4e16b1639da2" name="Default Changelist" comment="Lection 5 home work">
+      <change afterPath="$PROJECT_DIR$/src/lection5/CofeeRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lection5/RobotCoocker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lection5/RobotDancer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AviviCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AviviCourse.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,61 +20,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lection4/Shapes.java">
+        <entry file="file://$PROJECT_DIR$/src/lection5/Robot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="69" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="69" />
+            <state relative-caret-position="51">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lection4/Box.java">
+        <entry file="file://$PROJECT_DIR$/src/lection1/SecondQuestion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lection4/homework/triangle/TriangleGetSet.java">
+        <entry file="file://$PROJECT_DIR$/src/lection2/homework/HomeWork1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#551#552#0" expanded="true" />
-                <element signature="e#586#587#0" expanded="true" />
-                <element signature="e#625#626#0" expanded="true" />
-                <element signature="e#654#655#0" expanded="true" />
-                <element signature="e#695#696#0" expanded="true" />
-                <element signature="e#731#732#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="374">
+              <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lection4/homework/UseGetSet.java">
+        <entry file="file://$PROJECT_DIR$/src/lection5/RobotCoocker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="119">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lection4/homework/triangle/Triangle.java">
+        <entry file="file://$PROJECT_DIR$/src/lection5/CofeeRobot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
-              <folding>
-                <element signature="e#209#210#0" expanded="true" />
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#473#474#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lection5/RobotDancer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -133,8 +123,13 @@
         <option value="$PROJECT_DIR$/src/lection4/homework/TriangleTwo.java" />
         <option value="$PROJECT_DIR$/src/lection4/homework/Triangle.java" />
         <option value="$PROJECT_DIR$/src/lection4/homework/TriangleGetSet.java" />
-        <option value="$PROJECT_DIR$/src/lection4/homework/UseGetSet.java" />
         <option value="$PROJECT_DIR$/src/lection4/homework/triangle/TriangleGetSet.java" />
+        <option value="$PROJECT_DIR$/src/lection4/homework/UseGetSet.java" />
+        <option value="$PROJECT_DIR$/src/lection4/homework/triangle/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/lection5/Robot.java" />
+        <option value="$PROJECT_DIR$/src/lection5/RobotDancer.java" />
+        <option value="$PROJECT_DIR$/src/lection5/RobotCoocker.java" />
+        <option value="$PROJECT_DIR$/src/lection5/CofeeRobot.java" />
       </list>
     </option>
   </component>
@@ -149,6 +144,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -166,13 +162,19 @@
               <item name="AviviCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="AviviCourse" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lection2" type="462c0819:PsiDirectoryNode" />
+              <item name="lection1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AviviCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="AviviCourse" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lection2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AviviCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AviviCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lection2" type="462c0819:PsiDirectoryNode" />
               <item name="homework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -185,22 +187,12 @@
               <item name="AviviCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="AviviCourse" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lection4" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AviviCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AviviCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lection4" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="triangle" type="462c0819:PsiDirectoryNode" />
+              <item name="lection5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -232,13 +224,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Triangle">
-    <configuration name="Shapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lection4.Shapes" />
+  <component name="RunManager" selected="Application.HomeWork1">
+    <configuration name="CofeeRobot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lection5.CofeeRobot" />
       <module name="AviviCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lection4.*" />
+          <option name="PATTERN" value="lection5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,12 +238,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lection4.homework.triangle.Triangle" />
+    <configuration name="HomeWork1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lection2.homework.HomeWork1" />
       <module name="AviviCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lection4.homework.triangle.*" />
+          <option name="PATTERN" value="lection2.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -259,12 +251,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleGetSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lection4.homework.triangle.TriangleGetSet" />
+    <configuration name="RobotCoocker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lection5.RobotCoocker" />
       <module name="AviviCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lection4.homework.triangle.*" />
+          <option name="PATTERN" value="lection5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,12 +264,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lection4.homework.TriangleTwo" />
+    <configuration name="RobotDancer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lection5.RobotDancer" />
       <module name="AviviCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lection4.homework.triangle.*" />
+          <option name="PATTERN" value="lection5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,12 +277,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseGetSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lection4.homework.UseGetSet" />
+    <configuration name="SecondQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lection1.SecondQuestion" />
       <module name="AviviCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lection4.homework.triangle.*" />
+          <option name="PATTERN" value="lection1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,11 +292,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Triangle" />
-        <item itemvalue="Application.UseGetSet" />
-        <item itemvalue="Application.TriangleGetSet" />
-        <item itemvalue="Application.TriangleTwo" />
-        <item itemvalue="Application.Shapes" />
+        <item itemvalue="Application.HomeWork1" />
+        <item itemvalue="Application.SecondQuestion" />
+        <item itemvalue="Application.RobotCoocker" />
+        <item itemvalue="Application.CofeeRobot" />
+        <item itemvalue="Application.RobotDancer" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +319,10 @@
       <workItem from="1555432463382" duration="1636000" />
       <workItem from="1555442732620" duration="6509000" />
       <workItem from="1555601982405" duration="2729000" />
-      <workItem from="1555617528782" duration="8095000" />
+      <workItem from="1555617528782" duration="8463000" />
+      <workItem from="1556033945143" duration="2148000" />
+      <workItem from="1556168144600" duration="2002000" />
+      <workItem from="1557243657556" duration="2339000" />
     </task>
     <task id="LOCAL-00001" summary="simple app start">
       <created>1554829349796</created>
@@ -406,17 +401,38 @@
       <option name="project" value="LOCAL" />
       <updated>1555449246188</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Lection 4 + home work">
+      <created>1555625889461</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1555625889461</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Lection 4 + home work minor fix">
+      <created>1555625999020</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1555625999020</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Lection 5 home work">
+      <created>1556170101713</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1556170101713</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40676000" />
+    <option name="totallyTimeSpent" value="47533000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28517398" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29425114" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -425,7 +441,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -446,6 +462,37 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29425114" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -500,20 +547,16 @@
     <MESSAGE value="gitignore update" />
     <MESSAGE value="Lection 3 home work and fixes" />
     <MESSAGE value="Lection 3 home work and fixes  minor fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lection 3 home work and fixes  minor fix" />
+    <MESSAGE value="Lection 4 + home work" />
+    <MESSAGE value="Lection 4 + home work minor fix" />
+    <MESSAGE value="Lection 5 home work" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lection 5 home work" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/SimpleApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lection1/SecondQuestion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
@@ -544,31 +587,10 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lection2/homework/HomeWork1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lection2/homework/HomeWork2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="49" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lection4/Shapes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="69" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lection4/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -579,6 +601,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/lection4/homework/triangle/TriangleGetSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lection4/homework/UseGetSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lection4/homework/triangle/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/lection4/Box.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -586,39 +633,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lection4/homework/triangle/Triangle.java">
+    <entry file="file://$PROJECT_DIR$/src/lection4/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lection4/homework/UseGetSet.java">
+    <entry file="file://$PROJECT_DIR$/src/lection4/Shapes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lection4/homework/triangle/TriangleGetSet.java">
+    <entry file="file://$PROJECT_DIR$/src/lection5/Robot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
-            <element signature="e#586#587#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-            <element signature="e#654#655#0" expanded="true" />
-            <element signature="e#695#696#0" expanded="true" />
-            <element signature="e#731#732#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lection5/RobotCoocker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lection5/CofeeRobot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lection5/RobotDancer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lection1/SecondQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lection2/homework/HomeWork1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
         </state>
       </provider>
     </entry>
