@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c7cac8b-ce57-40f0-a647-4e16b1639da2" name="Default Changelist" comment="Lection 5 home work">
-      <change afterPath="$PROJECT_DIR$/src/lection5/CofeeRobot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lection5/RobotCoocker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lection5/RobotDancer.java" afterDir="false" />
+    <list default="true" id="9c7cac8b-ce57-40f0-a647-4e16b1639da2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lection2/homework/HomeWork1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lection2/homework/HomeWork1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lection2/homework/HomeWork1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+            <state relative-caret-position="312">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -130,8 +128,15 @@
         <option value="$PROJECT_DIR$/src/lection5/RobotDancer.java" />
         <option value="$PROJECT_DIR$/src/lection5/RobotCoocker.java" />
         <option value="$PROJECT_DIR$/src/lection5/CofeeRobot.java" />
+        <option value="$PROJECT_DIR$/src/lection2/homework/HomeWork1.java" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
@@ -322,7 +327,7 @@
       <workItem from="1555617528782" duration="8463000" />
       <workItem from="1556033945143" duration="2148000" />
       <workItem from="1556168144600" duration="2002000" />
-      <workItem from="1557243657556" duration="2339000" />
+      <workItem from="1557243657556" duration="2654000" />
     </task>
     <task id="LOCAL-00001" summary="simple app start">
       <created>1554829349796</created>
@@ -422,17 +427,24 @@
       <option name="project" value="LOCAL" />
       <updated>1556170101713</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="minor fix">
+      <created>1557247356614</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1557247356614</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47533000" />
+    <option name="totallyTimeSpent" value="47848000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29425114" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29425114" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -441,7 +453,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -458,7 +470,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32980332" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
@@ -550,7 +562,8 @@
     <MESSAGE value="Lection 4 + home work" />
     <MESSAGE value="Lection 4 + home work minor fix" />
     <MESSAGE value="Lection 5 home work" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lection 5 home work" />
+    <MESSAGE value="minor fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor fix" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/SimpleApp.java">
@@ -684,8 +697,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lection2/homework/HomeWork1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        <state relative-caret-position="312">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
         </state>
       </provider>
     </entry>

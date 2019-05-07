@@ -17,6 +17,7 @@ public class HomeWork1 {
                 z++;
             }
         }
+        // виводимо дані
         System.out.println();
         for (int  x = array.length - 1; x >=0;   x--) {
             System.out.print(array[x] + " ");
