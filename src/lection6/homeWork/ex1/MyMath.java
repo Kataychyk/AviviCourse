@@ -1,4 +1,4 @@
-package lection6.homeWork;
+package lection6.homeWork.ex1;
 
 
 public class MyMath {
